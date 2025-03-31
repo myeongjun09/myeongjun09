@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi there I'M MYEONGJUN09 👋
+- 🔥 Java Developer with a passion for clean code and software architecture.  
+- 💡 Interested in backend development, microservices, and system design.  
+- 🚀 Always learning and exploring new technologies.
+
 
 <!--
 **myeongjun09/myeongjun09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

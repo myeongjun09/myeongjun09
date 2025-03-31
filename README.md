@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?myeongjun09=YOUR_GITHUB_myeongjun09&show_icons=true&theme=tokyonight" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?myeongjun09=YOUR_GITHUB_myeongjun09&layout=compact&theme=tokyonight" height="165px"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=myeongjun09&show_icons=true&theme=tokyonight" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myeongjun09&layout=compact&theme=tokyonight" height="165px"/>
 
 ---
 

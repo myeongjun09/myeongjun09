@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Contact Me  
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:s2554@e-mirim.hs.kr)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ryen090910@gmail.com)

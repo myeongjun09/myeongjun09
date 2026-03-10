@@ -1,7 +1,4 @@
 ### Hi there I'M MYEONGJUN09 👋
-- 🔥 Java Developer with a passion for clean code and software architecture.  
-- 💡 Interested in backend development, microservices, and system design.  
-- 🚀 Always learning and exploring new technologies.
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=myeongjun09&utm_content=farm">
 <img

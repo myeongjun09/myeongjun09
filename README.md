@@ -3,6 +3,13 @@
 - 💡 Interested in backend development, microservices, and system design.  
 - 🚀 Always learning and exploring new technologies.
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=myeongjun09&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/myeongjun09"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!--
 **myeongjun09/myeongjun09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

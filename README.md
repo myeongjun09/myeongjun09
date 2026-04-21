@@ -58,6 +58,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myeongjun09&layout=compact&theme=tokyonight" height="165px"/>
 
 ---
-
-### 📫 Contact Me  
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ryen090910@gmail.com)

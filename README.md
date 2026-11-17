@@ -47,22 +47,10 @@
 </div>
 
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-
-<table>
-<tr>
-<td valign="top" width="55%">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=myeongjun09&bg_color=1A1C28&title_color=6693E1&text_color=6693E1&icon_color=6366F1&border_color=6366F1&border_radius=15" width="100%"/>
-</td>
-
-<td valign="top" width="45%">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=myeongjun09&layout=compact&bg_color=1A1C28&title_color=6693E1&text_color=6693E1&border_color=6366F1&border_radius=15" width="100%"/>
-</td>
-</tr>
-</table>
-
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="60%" />
 </div>
 
 <h2 align="center" style="color: #c9d1d9; font-size: 40px; font-weight: bold;">🐾 Git Animals</h2>
